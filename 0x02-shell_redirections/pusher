@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo "input the your commit"
+read commit 
+
+ 
+
+
+
+
+
+
+
+
+
+
+git add .
+git commit -m ${commit}
+git push
+
